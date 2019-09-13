@@ -43,7 +43,8 @@ p {
 /***************************Top Container *********************/
 .topcontainer {
   position: relative;
-  padding-top: 50px;
+  padding-top: 3.125em;
+
 }
 
 .pro {
@@ -58,16 +59,18 @@ p {
 
 .top_controler {
   position: absolute;
-  right: 300px;
-  top: 40px;
-  height: 100px;
+  width: 7.5%;
+  right: 10.75em;
+  top: 2.5em;
+  height: 6.25em;
 }
 
 .bottom_controler {
   position: absolute;
-  left: 250px;
-  bottom: 30px;
-  height: 100px;
+  width: 7.5%;
+  left: 8.625em;
+  bottom: 1.875em;
+  height: 6.25em;
 }
 
 .profile {
