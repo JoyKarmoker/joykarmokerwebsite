@@ -47,10 +47,6 @@ p {
 
 }
 
-.pro {
-  text-decoration: underline;
-}
-
 .bio-text {
   width: 30%;
   margin: auto;
@@ -136,7 +132,7 @@ p {
 .game-link
 {
   color: #203541;
-  text-decoration: none;
+  text-decoration: underline;
   font-weight: bold;
 }
 
